@@ -32,7 +32,7 @@ Before running the project, ensure the following are set up:
 ### Installation
 1. Clone this repository to your local machine:
     ```
-    git clone https://github.com/yourusername/football-squares-game.git
+    git clone https://github.com/jermainecaines/football-squares-game.git
     ```
 2. Navigate into the project directory:
     ```
@@ -51,15 +51,3 @@ This application is designed to be deployed using AWS infrastructure. Instructio
 2. **Scalability**: The current design supports up to 50 users. To scale beyond this, further optimizations and load testing will be necessary.
 3. **Monetization**: Add potential monetization features, such as in-game purchases or premium tiers.
 4. **Leaderboard**: A feature allowing players to track top performers and statistics over multiple games.
-
-## Suggestions for Additional Sections
-- **Contributing**: Include guidelines for contributors who want to improve or modify the codebase.
-- **FAQ**: Address common user questions about gameplay and troubleshooting.
-- **License**: Specify the type of license (MIT, GPL, etc.) for this project.
-
-## Questions or Feedback?
-If you have any questions or suggestions, feel free to contact the project maintainer at: **email@example.com**.
-
----
-
-Let me know if you'd like more details on any section or if you have additional features or functionality to include!
